@@ -387,6 +387,13 @@ CAPITULO 18
 
 **CONCLUSIONES**
 
+-Al resolver estos ejercicios  de circuitos eléctricos con capacitores, inductores y resistencias, otorgó resultados confiables ya que fueron relacionados con los con simuladores virtuales y podemos abalizar sus avances en sus ciertos simuladores.
+
+
+-Se pudo determinar por el  trabajo aplicar los métodos ya conocidos sobre las recistencias, inductores y los capacitores en un circuito electrico RLC.
+
+-Cada circuito reporto valores importantes que permitieron entender los valores y así brindar un análisis correcto, por lo tanto llegamos a comprender la aplicación del actual tema tratado y su aplicacion que podriamos darle si fuese el caso en el laboratorio. 
+
 
 ***
 **BIBLIOGRAFIA**
