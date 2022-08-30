@@ -296,8 +296,29 @@ CAPITULO 18
 
 ***
 
+2. Un filtro pasabajas tiene frecuencia crítica de 3 kHz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:
+
+a) 100 Hz ======== Nos permite
 
 
+b) 1 kHz ======== Nos permite
+
+
+c) 2 kHz ======== Nos permite
+
+
+d) 3 kHz ======== Nos permite
+
+
+e) 5 kHz ======== Nos rechaza
+
+4. ¿Cuál es fc para cada filtro mostrado en la figura 18-38? Determine el voltaje de salida a fc en cada caso cuando Vent = 5 V
+
+
+![image](https://user-images.githubusercontent.com/105686218/187472703-6837b3d2-a6e8-4346-a374-c06f6a4de2bb.png)
+
+
+![image](https://user-images.githubusercontent.com/105686218/187472749-3e1dec32-8b65-4fd6-8980-fd70ae290236.png)
 
 
 
