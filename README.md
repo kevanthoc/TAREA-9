@@ -32,7 +32,7 @@ Establecer y determinar las caracteristicas que podemos analizar en la teoria de
 
 1. Analizar los diferentes tipos de circuitos ya sean en serie o paralelo por medio de esquemas graficos.
 
-2. Desarrollar los determinados ejercicios rdescritos en el libro de Floyd de los capitulos 17 y 18. 
+2. Desarrollar los determinados ejercicios descritos en el libro de Floyd de los capitulos 17 y 18. 
 
 
 ***
